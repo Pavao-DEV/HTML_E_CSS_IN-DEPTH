@@ -43,3 +43,14 @@
 	transform: rotateX(360deg);	
 	transition: 1.5s;
 }
+
+.sample{
+	background-color: brown;
+	width: 100px;
+	height: 30px;
+	border-radius: 25%;
+	
+	
+	transform: rotate3d(3,2,1, 100deg) ;
+	transition: 5s;
+}
