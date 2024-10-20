@@ -1,0 +1,50 @@
+body {
+    background-color: ;
+    font-family: ;
+    margin: 3rem 5%;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+h2{
+    font-size: 2rem;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+header > img{
+    display: block;
+    margin: 0 auto;
+
+}
+
+nav ul {
+    list-style: none;
+    text-align: center  ;
+}
+
+nav li{
+    display: inline-block;
+    margin: 2rem auto;
+}
+
+section {
+    display: flex;
+}
+
+article {
+    flex: 1;
+}
+
+footer {
+    display: flex;
+}
+
+footer div {
+    flex: 1;
+}
