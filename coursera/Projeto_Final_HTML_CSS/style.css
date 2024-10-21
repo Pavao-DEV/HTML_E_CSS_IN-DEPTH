@@ -5,11 +5,11 @@ body {
 }
 
 h1{
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 h2{
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 a{
@@ -39,6 +39,12 @@ section {
 
 article {
     flex: 1;
+    background-color: #ccc;
+    margin: 1rem;
+    width: 200px;
+    height: 300px;
+    
+
 }
 
 footer {
@@ -46,5 +52,19 @@ footer {
 }
 
 footer div {
-    flex: 1;
+    flex:1 ;
+}
+
+figure{
+    
+}
+
+figure img {
+    width:inherit;
+    height:inherit;
+    object-fit:cover;
+}
+
+article *{
+    display: block;
 }
