@@ -1,2 +1,2 @@
 # Estudo
-Repositório para codigos de aulas de desenvolvimento
+Repositório para codigos de aulas de desenvolvimento.
